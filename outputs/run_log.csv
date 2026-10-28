@@ -1,0 +1,5 @@
+run_id,agent_role,task_type,tokens_used,duration_s,quality_score,errors
+LIVE00001,researcher,source_collection,219,0.003,1.0,none
+LIVE00001,fact_checker,claim_verification,219,0.007,1.0,none
+LIVE00001,writer,draft_report,302,0.0,1.0,none
+LIVE00001,reviewer,final_review,302,0.0,1.0,none
